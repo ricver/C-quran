@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{464855B4-DFA2-4443-9E86-00070023C146}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CQuran</RootNamespace>
+    <AssemblyName>CQuran</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="XMLQuran\Chapter001.xml" />
+    <Content Include="XMLQuran\Chapter002.xml" />
+    <Content Include="XMLQuran\Chapter003.xml" />
+    <Content Include="XMLQuran\Chapter004.xml" />
+    <Content Include="XMLQuran\Chapter005.xml" />
+    <Content Include="XMLQuran\Chapter006.xml" />
+    <Content Include="XMLQuran\Chapter007.xml" />
+    <Content Include="XMLQuran\Chapter008.xml" />
+    <Content Include="XMLQuran\Chapter009.xml" />
+    <Content Include="XMLQuran\Chapter010.xml" />
+    <Content Include="XMLQuran\Chapter011.xml" />
+    <Content Include="XMLQuran\Chapter012.xml" />
+    <Content Include="XMLQuran\Chapter013.xml" />
+    <Content Include="XMLQuran\Chapter014.xml" />
+    <Content Include="XMLQuran\Chapter015.xml" />
+    <Content Include="XMLQuran\Chapter016.xml" />
+    <Content Include="XMLQuran\Chapter017.xml" />
+    <Content Include="XMLQuran\Chapter018.xml" />
+    <Content Include="XMLQuran\Chapter019.xml" />
+    <Content Include="XMLQuran\Chapter020.xml" />
+    <Content Include="XMLQuran\Chapter021.xml" />
+    <Content Include="XMLQuran\Chapter022.xml" />
+    <Content Include="XMLQuran\Chapter023.xml" />
+    <Content Include="XMLQuran\Chapter024.xml" />
+    <Content Include="XMLQuran\Chapter025.xml" />
+    <Content Include="XMLQuran\Chapter026.xml" />
+    <Content Include="XMLQuran\Chapter027.xml" />
+    <Content Include="XMLQuran\Chapter028.xml" />
+    <Content Include="XMLQuran\Chapter029.xml" />
+    <Content Include="XMLQuran\Chapter030.xml" />
+    <Content Include="XMLQuran\Chapter031.xml" />
+    <Content Include="XMLQuran\Chapter032.xml" />
+    <Content Include="XMLQuran\Chapter033.xml" />
+    <Content Include="XMLQuran\Chapter034.xml" />
+    <Content Include="XMLQuran\Chapter035.xml" />
+    <Content Include="XMLQuran\Chapter036.xml" />
+    <Content Include="XMLQuran\Chapter037.xml" />
+    <Content Include="XMLQuran\Chapter038.xml" />
+    <Content Include="XMLQuran\Chapter039.xml" />
+    <Content Include="XMLQuran\Chapter040.xml" />
+    <Content Include="XMLQuran\Chapter041.xml" />
+    <Content Include="XMLQuran\Chapter042.xml" />
+    <Content Include="XMLQuran\Chapter043.xml" />
+    <Content Include="XMLQuran\Chapter044.xml" />
+    <Content Include="XMLQuran\Chapter045.xml" />
+    <Content Include="XMLQuran\Chapter046.xml" />
+    <Content Include="XMLQuran\Chapter047.xml" />
+    <Content Include="XMLQuran\Chapter048.xml" />
+    <Content Include="XMLQuran\Chapter049.xml" />
+    <Content Include="XMLQuran\Chapter050.xml" />
+    <Content Include="XMLQuran\Chapter051.xml" />
+    <Content Include="XMLQuran\Chapter052.xml" />
+    <Content Include="XMLQuran\Chapter053.xml" />
+    <Content Include="XMLQuran\Chapter054.xml" />
+    <Content Include="XMLQuran\Chapter055.xml" />
+    <Content Include="XMLQuran\Chapter056.xml" />
+    <Content Include="XMLQuran\Chapter057.xml" />
+    <Content Include="XMLQuran\Chapter058.xml" />
+    <Content Include="XMLQuran\Chapter059.xml" />
+    <Content Include="XMLQuran\Chapter060.xml" />
+    <Content Include="XMLQuran\Chapter061.xml" />
+    <Content Include="XMLQuran\Chapter062.xml" />
+    <Content Include="XMLQuran\Chapter063.xml" />
+    <Content Include="XMLQuran\Chapter064.xml" />
+    <Content Include="XMLQuran\Chapter065.xml" />
+    <Content Include="XMLQuran\Chapter066.xml" />
+    <Content Include="XMLQuran\Chapter067.xml" />
+    <Content Include="XMLQuran\Chapter068.xml" />
+    <Content Include="XMLQuran\Chapter069.xml" />
+    <Content Include="XMLQuran\Chapter070.xml" />
+    <Content Include="XMLQuran\Chapter071.xml" />
+    <Content Include="XMLQuran\Chapter072.xml" />
+    <Content Include="XMLQuran\Chapter073.xml" />
+    <Content Include="XMLQuran\Chapter074.xml" />
+    <Content Include="XMLQuran\Chapter075.xml" />
+    <Content Include="XMLQuran\Chapter076.xml" />
+    <Content Include="XMLQuran\Chapter077.xml" />
+    <Content Include="XMLQuran\Chapter078.xml" />
+    <Content Include="XMLQuran\Chapter079.xml" />
+    <Content Include="XMLQuran\Chapter080.xml" />
+    <Content Include="XMLQuran\Chapter081.xml" />
+    <Content Include="XMLQuran\Chapter082.xml" />
+    <Content Include="XMLQuran\Chapter083.xml" />
+    <Content Include="XMLQuran\Chapter084.xml" />
+    <Content Include="XMLQuran\Chapter085.xml" />
+    <Content Include="XMLQuran\Chapter086.xml" />
+    <Content Include="XMLQuran\Chapter087.xml" />
+    <Content Include="XMLQuran\Chapter088.xml" />
+    <Content Include="XMLQuran\Chapter089.xml" />
+    <Content Include="XMLQuran\Chapter090.xml" />
+    <Content Include="XMLQuran\Chapter091.xml" />
+    <Content Include="XMLQuran\Chapter092.xml" />
+    <Content Include="XMLQuran\Chapter093.xml" />
+    <Content Include="XMLQuran\Chapter094.xml" />
+    <Content Include="XMLQuran\Chapter095.xml" />
+    <Content Include="XMLQuran\Chapter096.xml" />
+    <Content Include="XMLQuran\Chapter097.xml" />
+    <Content Include="XMLQuran\Chapter098.xml" />
+    <Content Include="XMLQuran\Chapter099.xml" />
+    <Content Include="XMLQuran\Chapter100.xml" />
+    <Content Include="XMLQuran\Chapter101.xml" />
+    <Content Include="XMLQuran\Chapter102.xml" />
+    <Content Include="XMLQuran\Chapter103.xml" />
+    <Content Include="XMLQuran\Chapter104.xml" />
+    <Content Include="XMLQuran\Chapter105.xml" />
+    <Content Include="XMLQuran\Chapter106.xml" />
+    <Content Include="XMLQuran\Chapter107.xml" />
+    <Content Include="XMLQuran\Chapter108.xml" />
+    <Content Include="XMLQuran\Chapter109.xml" />
+    <Content Include="XMLQuran\Chapter110.xml" />
+    <Content Include="XMLQuran\Chapter111.xml" />
+    <Content Include="XMLQuran\Chapter112.xml" />
+    <Content Include="XMLQuran\Chapter113.xml" />
+    <Content Include="XMLQuran\Chapter114.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="96" ChapterName="العلق">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ]]></Verse>
+	<Verse VerseID="2"><![CDATA[خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ]]></Verse>
+	<Verse VerseID="3"><![CDATA[اقْرَأْ وَرَبُّكَ الْأَكْرَمُ]]></Verse>
+	<Verse VerseID="4"><![CDATA[الَّذِي عَلَّمَ بِالْقَلَمِ]]></Verse>
+	<Verse VerseID="5"><![CDATA[عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ]]></Verse>
+	<Verse VerseID="6"><![CDATA[كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ]]></Verse>
+	<Verse VerseID="7"><![CDATA[أَنْ رَآهُ اسْتَغْنَىٰ]]></Verse>
+	<Verse VerseID="8"><![CDATA[إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ]]></Verse>
+	<Verse VerseID="9"><![CDATA[أَرَأَيْتَ الَّذِي يَنْهَىٰ]]></Verse>
+	<Verse VerseID="10"><![CDATA[عَبْدًا إِذَا صَلَّىٰ]]></Verse>
+	<Verse VerseID="11"><![CDATA[أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ]]></Verse>
+	<Verse VerseID="12"><![CDATA[أَوْ أَمَرَ بِالتَّقْوَىٰ]]></Verse>
+	<Verse VerseID="13"><![CDATA[أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ]]></Verse>
+	<Verse VerseID="14"><![CDATA[أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ]]></Verse>
+	<Verse VerseID="15"><![CDATA[كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ]]></Verse>
+	<Verse VerseID="16"><![CDATA[نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ]]></Verse>
+	<Verse VerseID="17"><![CDATA[فَلْيَدْعُ نَادِيَهُ]]></Verse>
+	<Verse VerseID="18"><![CDATA[سَنَدْعُ الزَّبَانِيَةَ]]></Verse>
+	<Verse VerseID="19"><![CDATA[كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩]]></Verse>
+</Chapter>

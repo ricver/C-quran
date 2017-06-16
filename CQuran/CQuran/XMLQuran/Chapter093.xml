@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="93" ChapterName="الضحى">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالضُّحَىٰ]]></Verse>
+	<Verse VerseID="2"><![CDATA[وَاللَّيْلِ إِذَا سَجَىٰ]]></Verse>
+	<Verse VerseID="3"><![CDATA[مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ]]></Verse>
+	<Verse VerseID="4"><![CDATA[وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ]]></Verse>
+	<Verse VerseID="5"><![CDATA[وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ]]></Verse>
+	<Verse VerseID="6"><![CDATA[أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ]]></Verse>
+	<Verse VerseID="7"><![CDATA[وَوَجَدَكَ ضَالًّا فَهَدَىٰ]]></Verse>
+	<Verse VerseID="8"><![CDATA[وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ]]></Verse>
+	<Verse VerseID="9"><![CDATA[فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ]]></Verse>
+	<Verse VerseID="10"><![CDATA[وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ]]></Verse>
+	<Verse VerseID="11"><![CDATA[وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ]]></Verse>
+</Chapter>

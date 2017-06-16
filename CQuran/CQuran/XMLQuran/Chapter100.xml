@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="100" ChapterName="العاديات">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالْعَادِيَاتِ ضَبْحًا]]></Verse>
+	<Verse VerseID="2"><![CDATA[فَالْمُورِيَاتِ قَدْحًا]]></Verse>
+	<Verse VerseID="3"><![CDATA[فَالْمُغِيرَاتِ صُبْحًا]]></Verse>
+	<Verse VerseID="4"><![CDATA[فَأَثَرْنَ بِهِ نَقْعًا]]></Verse>
+	<Verse VerseID="5"><![CDATA[فَوَسَطْنَ بِهِ جَمْعًا]]></Verse>
+	<Verse VerseID="6"><![CDATA[إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ]]></Verse>
+	<Verse VerseID="7"><![CDATA[وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ]]></Verse>
+	<Verse VerseID="8"><![CDATA[وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ]]></Verse>
+	<Verse VerseID="9"><![CDATA[أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ]]></Verse>
+	<Verse VerseID="10"><![CDATA[وَحُصِّلَ مَا فِي الصُّدُورِ]]></Verse>
+	<Verse VerseID="11"><![CDATA[إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ]]></Verse>
+</Chapter>

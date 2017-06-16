@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="102" ChapterName="التكاثر">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلْهَاكُمُ التَّكَاثُرُ]]></Verse>
+	<Verse VerseID="2"><![CDATA[حَتَّىٰ زُرْتُمُ الْمَقَابِرَ]]></Verse>
+	<Verse VerseID="3"><![CDATA[كَلَّا سَوْفَ تَعْلَمُونَ]]></Verse>
+	<Verse VerseID="4"><![CDATA[ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ]]></Verse>
+	<Verse VerseID="5"><![CDATA[كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ]]></Verse>
+	<Verse VerseID="6"><![CDATA[لَتَرَوُنَّ الْجَحِيمَ]]></Verse>
+	<Verse VerseID="7"><![CDATA[ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ]]></Verse>
+	<Verse VerseID="8"><![CDATA[ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ]]></Verse>
+</Chapter>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="94" ChapterName="الانشراح">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ]]></Verse>
+	<Verse VerseID="2"><![CDATA[وَوَضَعْنَا عَنْكَ وِزْرَكَ]]></Verse>
+	<Verse VerseID="3"><![CDATA[الَّذِي أَنْقَضَ ظَهْرَكَ]]></Verse>
+	<Verse VerseID="4"><![CDATA[وَرَفَعْنَا لَكَ ذِكْرَكَ]]></Verse>
+	<Verse VerseID="5"><![CDATA[فَإِنَّ مَعَ الْعُسْرِ يُسْرًا]]></Verse>
+	<Verse VerseID="6"><![CDATA[إِنَّ مَعَ الْعُسْرِ يُسْرًا]]></Verse>
+	<Verse VerseID="7"><![CDATA[فَإِذَا فَرَغْتَ فَانْصَبْ]]></Verse>
+	<Verse VerseID="8"><![CDATA[وَإِلَىٰ رَبِّكَ فَارْغَبْ]]></Verse>
+</Chapter>

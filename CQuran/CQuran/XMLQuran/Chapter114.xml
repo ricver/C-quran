@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="114" ChapterName="الناس">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ النَّاسِ]]></Verse>
+	<Verse VerseID="2"><![CDATA[مَلِكِ النَّاسِ]]></Verse>
+	<Verse VerseID="3"><![CDATA[إِلَٰهِ النَّاسِ]]></Verse>
+	<Verse VerseID="4"><![CDATA[مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ]]></Verse>
+	<Verse VerseID="5"><![CDATA[الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ]]></Verse>
+	<Verse VerseID="6"><![CDATA[مِنَ الْجِنَّةِ وَالنَّاسِ]]></Verse>
+</Chapter>

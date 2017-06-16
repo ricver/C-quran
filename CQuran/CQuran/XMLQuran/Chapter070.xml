@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="70" ChapterName="المعارج">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ]]></Verse>
+	<Verse VerseID="2"><![CDATA[لِلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ]]></Verse>
+	<Verse VerseID="3"><![CDATA[مِنَ اللَّهِ ذِي الْمَعَارِجِ]]></Verse>
+	<Verse VerseID="4"><![CDATA[تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ]]></Verse>
+	<Verse VerseID="5"><![CDATA[فَاصْبِرْ صَبْرًا جَمِيلًا]]></Verse>
+	<Verse VerseID="6"><![CDATA[إِنَّهُمْ يَرَوْنَهُ بَعِيدًا]]></Verse>
+	<Verse VerseID="7"><![CDATA[وَنَرَاهُ قَرِيبًا]]></Verse>
+	<Verse VerseID="8"><![CDATA[يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ]]></Verse>
+	<Verse VerseID="9"><![CDATA[وَتَكُونُ الْجِبَالُ كَالْعِهْنِ]]></Verse>
+	<Verse VerseID="10"><![CDATA[وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا]]></Verse>
+	<Verse VerseID="11"><![CDATA[يُبَصَّرُونَهُمْ ۚ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ]]></Verse>
+	<Verse VerseID="12"><![CDATA[وَصَاحِبَتِهِ وَأَخِيهِ]]></Verse>
+	<Verse VerseID="13"><![CDATA[وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ]]></Verse>
+	<Verse VerseID="14"><![CDATA[وَمَنْ فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنْجِيهِ]]></Verse>
+	<Verse VerseID="15"><![CDATA[كَلَّا ۖ إِنَّهَا لَظَىٰ]]></Verse>
+	<Verse VerseID="16"><![CDATA[نَزَّاعَةً لِلشَّوَىٰ]]></Verse>
+	<Verse VerseID="17"><![CDATA[تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ]]></Verse>
+	<Verse VerseID="18"><![CDATA[وَجَمَعَ فَأَوْعَىٰ]]></Verse>
+	<Verse VerseID="19"><![CDATA[إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا]]></Verse>
+	<Verse VerseID="20"><![CDATA[إِذَا مَسَّهُ الشَّرُّ جَزُوعًا]]></Verse>
+	<Verse VerseID="21"><![CDATA[وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا]]></Verse>
+	<Verse VerseID="22"><![CDATA[إِلَّا الْمُصَلِّينَ]]></Verse>
+	<Verse VerseID="23"><![CDATA[الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ]]></Verse>
+	<Verse VerseID="24"><![CDATA[وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَعْلُومٌ]]></Verse>
+	<Verse VerseID="25"><![CDATA[لِلسَّائِلِ وَالْمَحْرُومِ]]></Verse>
+	<Verse VerseID="26"><![CDATA[وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ]]></Verse>
+	<Verse VerseID="27"><![CDATA[وَالَّذِينَ هُمْ مِنْ عَذَابِ رَبِّهِمْ مُشْفِقُونَ]]></Verse>
+	<Verse VerseID="28"><![CDATA[إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ]]></Verse>
+	<Verse VerseID="29"><![CDATA[وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ]]></Verse>
+	<Verse VerseID="30"><![CDATA[إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ]]></Verse>
+	<Verse VerseID="31"><![CDATA[فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ]]></Verse>
+	<Verse VerseID="32"><![CDATA[وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ]]></Verse>
+	<Verse VerseID="33"><![CDATA[وَالَّذِينَ هُمْ بِشَهَادَاتِهِمْ قَائِمُونَ]]></Verse>
+	<Verse VerseID="34"><![CDATA[وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ]]></Verse>
+	<Verse VerseID="35"><![CDATA[أُولَٰئِكَ فِي جَنَّاتٍ مُكْرَمُونَ]]></Verse>
+	<Verse VerseID="36"><![CDATA[فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ]]></Verse>
+	<Verse VerseID="37"><![CDATA[عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ]]></Verse>
+	<Verse VerseID="38"><![CDATA[أَيَطْمَعُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُدْخَلَ جَنَّةَ نَعِيمٍ]]></Verse>
+	<Verse VerseID="39"><![CDATA[كَلَّا ۖ إِنَّا خَلَقْنَاهُمْ مِمَّا يَعْلَمُونَ]]></Verse>
+	<Verse VerseID="40"><![CDATA[فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ]]></Verse>
+	<Verse VerseID="41"><![CDATA[عَلَىٰ أَنْ نُبَدِّلَ خَيْرًا مِنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ]]></Verse>
+	<Verse VerseID="42"><![CDATA[فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ]]></Verse>
+	<Verse VerseID="43"><![CDATA[يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ]]></Verse>
+	<Verse VerseID="44"><![CDATA[خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ الَّذِي كَانُوا يُوعَدُونَ]]></Verse>
+</Chapter>

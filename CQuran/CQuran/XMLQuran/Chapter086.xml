@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="86" ChapterName="الطارق">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالسَّمَاءِ وَالطَّارِقِ]]></Verse>
+	<Verse VerseID="2"><![CDATA[وَمَا أَدْرَاكَ مَا الطَّارِقُ]]></Verse>
+	<Verse VerseID="3"><![CDATA[النَّجْمُ الثَّاقِبُ]]></Verse>
+	<Verse VerseID="4"><![CDATA[إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ]]></Verse>
+	<Verse VerseID="5"><![CDATA[فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ]]></Verse>
+	<Verse VerseID="6"><![CDATA[خُلِقَ مِنْ مَاءٍ دَافِقٍ]]></Verse>
+	<Verse VerseID="7"><![CDATA[يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ]]></Verse>
+	<Verse VerseID="8"><![CDATA[إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ]]></Verse>
+	<Verse VerseID="9"><![CDATA[يَوْمَ تُبْلَى السَّرَائِرُ]]></Verse>
+	<Verse VerseID="10"><![CDATA[فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ]]></Verse>
+	<Verse VerseID="11"><![CDATA[وَالسَّمَاءِ ذَاتِ الرَّجْعِ]]></Verse>
+	<Verse VerseID="12"><![CDATA[وَالْأَرْضِ ذَاتِ الصَّدْعِ]]></Verse>
+	<Verse VerseID="13"><![CDATA[إِنَّهُ لَقَوْلٌ فَصْلٌ]]></Verse>
+	<Verse VerseID="14"><![CDATA[وَمَا هُوَ بِالْهَزْلِ]]></Verse>
+	<Verse VerseID="15"><![CDATA[إِنَّهُمْ يَكِيدُونَ كَيْدًا]]></Verse>
+	<Verse VerseID="16"><![CDATA[وَأَكِيدُ كَيْدًا]]></Verse>
+	<Verse VerseID="17"><![CDATA[فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا]]></Verse>
+</Chapter>

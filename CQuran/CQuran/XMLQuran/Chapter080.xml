@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="80" ChapterName="عبس">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ عَبَسَ وَتَوَلَّىٰ]]></Verse>
+	<Verse VerseID="2"><![CDATA[أَنْ جَاءَهُ الْأَعْمَىٰ]]></Verse>
+	<Verse VerseID="3"><![CDATA[وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ]]></Verse>
+	<Verse VerseID="4"><![CDATA[أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ]]></Verse>
+	<Verse VerseID="5"><![CDATA[أَمَّا مَنِ اسْتَغْنَىٰ]]></Verse>
+	<Verse VerseID="6"><![CDATA[فَأَنْتَ لَهُ تَصَدَّىٰ]]></Verse>
+	<Verse VerseID="7"><![CDATA[وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ]]></Verse>
+	<Verse VerseID="8"><![CDATA[وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ]]></Verse>
+	<Verse VerseID="9"><![CDATA[وَهُوَ يَخْشَىٰ]]></Verse>
+	<Verse VerseID="10"><![CDATA[فَأَنْتَ عَنْهُ تَلَهَّىٰ]]></Verse>
+	<Verse VerseID="11"><![CDATA[كَلَّا إِنَّهَا تَذْكِرَةٌ]]></Verse>
+	<Verse VerseID="12"><![CDATA[فَمَنْ شَاءَ ذَكَرَهُ]]></Verse>
+	<Verse VerseID="13"><![CDATA[فِي صُحُفٍ مُكَرَّمَةٍ]]></Verse>
+	<Verse VerseID="14"><![CDATA[مَرْفُوعَةٍ مُطَهَّرَةٍ]]></Verse>
+	<Verse VerseID="15"><![CDATA[بِأَيْدِي سَفَرَةٍ]]></Verse>
+	<Verse VerseID="16"><![CDATA[كِرَامٍ بَرَرَةٍ]]></Verse>
+	<Verse VerseID="17"><![CDATA[قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ]]></Verse>
+	<Verse VerseID="18"><![CDATA[مِنْ أَيِّ شَيْءٍ خَلَقَهُ]]></Verse>
+	<Verse VerseID="19"><![CDATA[مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ]]></Verse>
+	<Verse VerseID="20"><![CDATA[ثُمَّ السَّبِيلَ يَسَّرَهُ]]></Verse>
+	<Verse VerseID="21"><![CDATA[ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ]]></Verse>
+	<Verse VerseID="22"><![CDATA[ثُمَّ إِذَا شَاءَ أَنْشَرَهُ]]></Verse>
+	<Verse VerseID="23"><![CDATA[كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ]]></Verse>
+	<Verse VerseID="24"><![CDATA[فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ]]></Verse>
+	<Verse VerseID="25"><![CDATA[أَنَّا صَبَبْنَا الْمَاءَ صَبًّا]]></Verse>
+	<Verse VerseID="26"><![CDATA[ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا]]></Verse>
+	<Verse VerseID="27"><![CDATA[فَأَنْبَتْنَا فِيهَا حَبًّا]]></Verse>
+	<Verse VerseID="28"><![CDATA[وَعِنَبًا وَقَضْبًا]]></Verse>
+	<Verse VerseID="29"><![CDATA[وَزَيْتُونًا وَنَخْلًا]]></Verse>
+	<Verse VerseID="30"><![CDATA[وَحَدَائِقَ غُلْبًا]]></Verse>
+	<Verse VerseID="31"><![CDATA[وَفَاكِهَةً وَأَبًّا]]></Verse>
+	<Verse VerseID="32"><![CDATA[مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ]]></Verse>
+	<Verse VerseID="33"><![CDATA[فَإِذَا جَاءَتِ الصَّاخَّةُ]]></Verse>
+	<Verse VerseID="34"><![CDATA[يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ]]></Verse>
+	<Verse VerseID="35"><![CDATA[وَأُمِّهِ وَأَبِيهِ]]></Verse>
+	<Verse VerseID="36"><![CDATA[وَصَاحِبَتِهِ وَبَنِيهِ]]></Verse>
+	<Verse VerseID="37"><![CDATA[لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ]]></Verse>
+	<Verse VerseID="38"><![CDATA[وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ]]></Verse>
+	<Verse VerseID="39"><![CDATA[ضَاحِكَةٌ مُسْتَبْشِرَةٌ]]></Verse>
+	<Verse VerseID="40"><![CDATA[وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ]]></Verse>
+	<Verse VerseID="41"><![CDATA[تَرْهَقُهَا قَتَرَةٌ]]></Verse>
+	<Verse VerseID="42"><![CDATA[أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ]]></Verse>
+</Chapter>

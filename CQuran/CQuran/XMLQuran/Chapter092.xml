@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="92" ChapterName="الليل">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَاللَّيْلِ إِذَا يَغْشَىٰ]]></Verse>
+	<Verse VerseID="2"><![CDATA[وَالنَّهَارِ إِذَا تَجَلَّىٰ]]></Verse>
+	<Verse VerseID="3"><![CDATA[وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَىٰ]]></Verse>
+	<Verse VerseID="4"><![CDATA[إِنَّ سَعْيَكُمْ لَشَتَّىٰ]]></Verse>
+	<Verse VerseID="5"><![CDATA[فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ]]></Verse>
+	<Verse VerseID="6"><![CDATA[وَصَدَّقَ بِالْحُسْنَىٰ]]></Verse>
+	<Verse VerseID="7"><![CDATA[فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ]]></Verse>
+	<Verse VerseID="8"><![CDATA[وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ]]></Verse>
+	<Verse VerseID="9"><![CDATA[وَكَذَّبَ بِالْحُسْنَىٰ]]></Verse>
+	<Verse VerseID="10"><![CDATA[فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ]]></Verse>
+	<Verse VerseID="11"><![CDATA[وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ]]></Verse>
+	<Verse VerseID="12"><![CDATA[إِنَّ عَلَيْنَا لَلْهُدَىٰ]]></Verse>
+	<Verse VerseID="13"><![CDATA[وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ]]></Verse>
+	<Verse VerseID="14"><![CDATA[فَأَنْذَرْتُكُمْ نَارًا تَلَظَّىٰ]]></Verse>
+	<Verse VerseID="15"><![CDATA[لَا يَصْلَاهَا إِلَّا الْأَشْقَى]]></Verse>
+	<Verse VerseID="16"><![CDATA[الَّذِي كَذَّبَ وَتَوَلَّىٰ]]></Verse>
+	<Verse VerseID="17"><![CDATA[وَسَيُجَنَّبُهَا الْأَتْقَى]]></Verse>
+	<Verse VerseID="18"><![CDATA[الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ]]></Verse>
+	<Verse VerseID="19"><![CDATA[وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَىٰ]]></Verse>
+	<Verse VerseID="20"><![CDATA[إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ]]></Verse>
+	<Verse VerseID="21"><![CDATA[وَلَسَوْفَ يَرْضَىٰ]]></Verse>
+</Chapter>

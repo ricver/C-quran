@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="69" ChapterName="الحاقة">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَاقَّةُ]]></Verse>
+	<Verse VerseID="2"><![CDATA[مَا الْحَاقَّةُ]]></Verse>
+	<Verse VerseID="3"><![CDATA[وَمَا أَدْرَاكَ مَا الْحَاقَّةُ]]></Verse>
+	<Verse VerseID="4"><![CDATA[كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ]]></Verse>
+	<Verse VerseID="5"><![CDATA[فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ]]></Verse>
+	<Verse VerseID="6"><![CDATA[وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ]]></Verse>
+	<Verse VerseID="7"><![CDATA[سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ]]></Verse>
+	<Verse VerseID="8"><![CDATA[فَهَلْ تَرَىٰ لَهُمْ مِنْ بَاقِيَةٍ]]></Verse>
+	<Verse VerseID="9"><![CDATA[وَجَاءَ فِرْعَوْنُ وَمَنْ قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ]]></Verse>
+	<Verse VerseID="10"><![CDATA[فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَابِيَةً]]></Verse>
+	<Verse VerseID="11"><![CDATA[إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ]]></Verse>
+	<Verse VerseID="12"><![CDATA[لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ]]></Verse>
+	<Verse VerseID="13"><![CDATA[فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ]]></Verse>
+	<Verse VerseID="14"><![CDATA[وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً]]></Verse>
+	<Verse VerseID="15"><![CDATA[فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ]]></Verse>
+	<Verse VerseID="16"><![CDATA[وَانْشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ]]></Verse>
+	<Verse VerseID="17"><![CDATA[وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ]]></Verse>
+	<Verse VerseID="18"><![CDATA[يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنْكُمْ خَافِيَةٌ]]></Verse>
+	<Verse VerseID="19"><![CDATA[فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ اقْرَءُوا كِتَابِيَهْ]]></Verse>
+	<Verse VerseID="20"><![CDATA[إِنِّي ظَنَنْتُ أَنِّي مُلَاقٍ حِسَابِيَهْ]]></Verse>
+	<Verse VerseID="21"><![CDATA[فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ]]></Verse>
+	<Verse VerseID="22"><![CDATA[فِي جَنَّةٍ عَالِيَةٍ]]></Verse>
+	<Verse VerseID="23"><![CDATA[قُطُوفُهَا دَانِيَةٌ]]></Verse>
+	<Verse VerseID="24"><![CDATA[كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ]]></Verse>
+	<Verse VerseID="25"><![CDATA[وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ]]></Verse>
+	<Verse VerseID="26"><![CDATA[وَلَمْ أَدْرِ مَا حِسَابِيَهْ]]></Verse>
+	<Verse VerseID="27"><![CDATA[يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ]]></Verse>
+	<Verse VerseID="28"><![CDATA[مَا أَغْنَىٰ عَنِّي مَالِيَهْ ۜ]]></Verse>
+	<Verse VerseID="29"><![CDATA[هَلَكَ عَنِّي سُلْطَانِيَهْ]]></Verse>
+	<Verse VerseID="30"><![CDATA[خُذُوهُ فَغُلُّوهُ]]></Verse>
+	<Verse VerseID="31"><![CDATA[ثُمَّ الْجَحِيمَ صَلُّوهُ]]></Verse>
+	<Verse VerseID="32"><![CDATA[ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ]]></Verse>
+	<Verse VerseID="33"><![CDATA[إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ]]></Verse>
+	<Verse VerseID="34"><![CDATA[وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ]]></Verse>
+	<Verse VerseID="35"><![CDATA[فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ]]></Verse>
+	<Verse VerseID="36"><![CDATA[وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ]]></Verse>
+	<Verse VerseID="37"><![CDATA[لَا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ]]></Verse>
+	<Verse VerseID="38"><![CDATA[فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ]]></Verse>
+	<Verse VerseID="39"><![CDATA[وَمَا لَا تُبْصِرُونَ]]></Verse>
+	<Verse VerseID="40"><![CDATA[إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ]]></Verse>
+	<Verse VerseID="41"><![CDATA[وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَا تُؤْمِنُونَ]]></Verse>
+	<Verse VerseID="42"><![CDATA[وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَا تَذَكَّرُونَ]]></Verse>
+	<Verse VerseID="43"><![CDATA[تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ]]></Verse>
+	<Verse VerseID="44"><![CDATA[وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ]]></Verse>
+	<Verse VerseID="45"><![CDATA[لَأَخَذْنَا مِنْهُ بِالْيَمِينِ]]></Verse>
+	<Verse VerseID="46"><![CDATA[ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ]]></Verse>
+	<Verse VerseID="47"><![CDATA[فَمَا مِنْكُمْ مِنْ أَحَدٍ عَنْهُ حَاجِزِينَ]]></Verse>
+	<Verse VerseID="48"><![CDATA[وَإِنَّهُ لَتَذْكِرَةٌ لِلْمُتَّقِينَ]]></Verse>
+	<Verse VerseID="49"><![CDATA[وَإِنَّا لَنَعْلَمُ أَنَّ مِنْكُمْ مُكَذِّبِينَ]]></Verse>
+	<Verse VerseID="50"><![CDATA[وَإِنَّهُ لَحَسْرَةٌ عَلَى الْكَافِرِينَ]]></Verse>
+	<Verse VerseID="51"><![CDATA[وَإِنَّهُ لَحَقُّ الْيَقِينِ]]></Verse>
+	<Verse VerseID="52"><![CDATA[فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ]]></Verse>
+</Chapter>

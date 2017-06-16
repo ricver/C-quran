@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="91" ChapterName="الشمس">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالشَّمْسِ وَضُحَاهَا]]></Verse>
+	<Verse VerseID="2"><![CDATA[وَالْقَمَرِ إِذَا تَلَاهَا]]></Verse>
+	<Verse VerseID="3"><![CDATA[وَالنَّهَارِ إِذَا جَلَّاهَا]]></Verse>
+	<Verse VerseID="4"><![CDATA[وَاللَّيْلِ إِذَا يَغْشَاهَا]]></Verse>
+	<Verse VerseID="5"><![CDATA[وَالسَّمَاءِ وَمَا بَنَاهَا]]></Verse>
+	<Verse VerseID="6"><![CDATA[وَالْأَرْضِ وَمَا طَحَاهَا]]></Verse>
+	<Verse VerseID="7"><![CDATA[وَنَفْسٍ وَمَا سَوَّاهَا]]></Verse>
+	<Verse VerseID="8"><![CDATA[فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا]]></Verse>
+	<Verse VerseID="9"><![CDATA[قَدْ أَفْلَحَ مَنْ زَكَّاهَا]]></Verse>
+	<Verse VerseID="10"><![CDATA[وَقَدْ خَابَ مَنْ دَسَّاهَا]]></Verse>
+	<Verse VerseID="11"><![CDATA[كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا]]></Verse>
+	<Verse VerseID="12"><![CDATA[إِذِ انْبَعَثَ أَشْقَاهَا]]></Verse>
+	<Verse VerseID="13"><![CDATA[فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا]]></Verse>
+	<Verse VerseID="14"><![CDATA[فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا]]></Verse>
+	<Verse VerseID="15"><![CDATA[وَلَا يَخَافُ عُقْبَاهَا]]></Verse>
+</Chapter>

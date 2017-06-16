@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="87" ChapterName="الاعلى">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى]]></Verse>
+	<Verse VerseID="2"><![CDATA[الَّذِي خَلَقَ فَسَوَّىٰ]]></Verse>
+	<Verse VerseID="3"><![CDATA[وَالَّذِي قَدَّرَ فَهَدَىٰ]]></Verse>
+	<Verse VerseID="4"><![CDATA[وَالَّذِي أَخْرَجَ الْمَرْعَىٰ]]></Verse>
+	<Verse VerseID="5"><![CDATA[فَجَعَلَهُ غُثَاءً أَحْوَىٰ]]></Verse>
+	<Verse VerseID="6"><![CDATA[سَنُقْرِئُكَ فَلَا تَنْسَىٰ]]></Verse>
+	<Verse VerseID="7"><![CDATA[إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ]]></Verse>
+	<Verse VerseID="8"><![CDATA[وَنُيَسِّرُكَ لِلْيُسْرَىٰ]]></Verse>
+	<Verse VerseID="9"><![CDATA[فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَىٰ]]></Verse>
+	<Verse VerseID="10"><![CDATA[سَيَذَّكَّرُ مَنْ يَخْشَىٰ]]></Verse>
+	<Verse VerseID="11"><![CDATA[وَيَتَجَنَّبُهَا الْأَشْقَى]]></Verse>
+	<Verse VerseID="12"><![CDATA[الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ]]></Verse>
+	<Verse VerseID="13"><![CDATA[ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ]]></Verse>
+	<Verse VerseID="14"><![CDATA[قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ]]></Verse>
+	<Verse VerseID="15"><![CDATA[وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ]]></Verse>
+	<Verse VerseID="16"><![CDATA[بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا]]></Verse>
+	<Verse VerseID="17"><![CDATA[وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ]]></Verse>
+	<Verse VerseID="18"><![CDATA[إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ]]></Verse>
+	<Verse VerseID="19"><![CDATA[صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ]]></Verse>
+</Chapter>

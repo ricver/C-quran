@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="81" ChapterName="التكوير">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا الشَّمْسُ كُوِّرَتْ]]></Verse>
+	<Verse VerseID="2"><![CDATA[وَإِذَا النُّجُومُ انْكَدَرَتْ]]></Verse>
+	<Verse VerseID="3"><![CDATA[وَإِذَا الْجِبَالُ سُيِّرَتْ]]></Verse>
+	<Verse VerseID="4"><![CDATA[وَإِذَا الْعِشَارُ عُطِّلَتْ]]></Verse>
+	<Verse VerseID="5"><![CDATA[وَإِذَا الْوُحُوشُ حُشِرَتْ]]></Verse>
+	<Verse VerseID="6"><![CDATA[وَإِذَا الْبِحَارُ سُجِّرَتْ]]></Verse>
+	<Verse VerseID="7"><![CDATA[وَإِذَا النُّفُوسُ زُوِّجَتْ]]></Verse>
+	<Verse VerseID="8"><![CDATA[وَإِذَا الْمَوْءُودَةُ سُئِلَتْ]]></Verse>
+	<Verse VerseID="9"><![CDATA[بِأَيِّ ذَنْبٍ قُتِلَتْ]]></Verse>
+	<Verse VerseID="10"><![CDATA[وَإِذَا الصُّحُفُ نُشِرَتْ]]></Verse>
+	<Verse VerseID="11"><![CDATA[وَإِذَا السَّمَاءُ كُشِطَتْ]]></Verse>
+	<Verse VerseID="12"><![CDATA[وَإِذَا الْجَحِيمُ سُعِّرَتْ]]></Verse>
+	<Verse VerseID="13"><![CDATA[وَإِذَا الْجَنَّةُ أُزْلِفَتْ]]></Verse>
+	<Verse VerseID="14"><![CDATA[عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ]]></Verse>
+	<Verse VerseID="15"><![CDATA[فَلَا أُقْسِمُ بِالْخُنَّسِ]]></Verse>
+	<Verse VerseID="16"><![CDATA[الْجَوَارِ الْكُنَّسِ]]></Verse>
+	<Verse VerseID="17"><![CDATA[وَاللَّيْلِ إِذَا عَسْعَسَ]]></Verse>
+	<Verse VerseID="18"><![CDATA[وَالصُّبْحِ إِذَا تَنَفَّسَ]]></Verse>
+	<Verse VerseID="19"><![CDATA[إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ]]></Verse>
+	<Verse VerseID="20"><![CDATA[ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ]]></Verse>
+	<Verse VerseID="21"><![CDATA[مُطَاعٍ ثَمَّ أَمِينٍ]]></Verse>
+	<Verse VerseID="22"><![CDATA[وَمَا صَاحِبُكُمْ بِمَجْنُونٍ]]></Verse>
+	<Verse VerseID="23"><![CDATA[وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ]]></Verse>
+	<Verse VerseID="24"><![CDATA[وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ]]></Verse>
+	<Verse VerseID="25"><![CDATA[وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ]]></Verse>
+	<Verse VerseID="26"><![CDATA[فَأَيْنَ تَذْهَبُونَ]]></Verse>
+	<Verse VerseID="27"><![CDATA[إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ]]></Verse>
+	<Verse VerseID="28"><![CDATA[لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ]]></Verse>
+	<Verse VerseID="29"><![CDATA[وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ]]></Verse>
+</Chapter>

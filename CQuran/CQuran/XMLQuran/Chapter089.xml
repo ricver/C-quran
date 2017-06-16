@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="89" ChapterName="الفجر">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالْفَجْرِ]]></Verse>
+	<Verse VerseID="2"><![CDATA[وَلَيَالٍ عَشْرٍ]]></Verse>
+	<Verse VerseID="3"><![CDATA[وَالشَّفْعِ وَالْوَتْرِ]]></Verse>
+	<Verse VerseID="4"><![CDATA[وَاللَّيْلِ إِذَا يَسْرِ]]></Verse>
+	<Verse VerseID="5"><![CDATA[هَلْ فِي ذَٰلِكَ قَسَمٌ لِذِي حِجْرٍ]]></Verse>
+	<Verse VerseID="6"><![CDATA[أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ]]></Verse>
+	<Verse VerseID="7"><![CDATA[إِرَمَ ذَاتِ الْعِمَادِ]]></Verse>
+	<Verse VerseID="8"><![CDATA[الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ]]></Verse>
+	<Verse VerseID="9"><![CDATA[وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ]]></Verse>
+	<Verse VerseID="10"><![CDATA[وَفِرْعَوْنَ ذِي الْأَوْتَادِ]]></Verse>
+	<Verse VerseID="11"><![CDATA[الَّذِينَ طَغَوْا فِي الْبِلَادِ]]></Verse>
+	<Verse VerseID="12"><![CDATA[فَأَكْثَرُوا فِيهَا الْفَسَادَ]]></Verse>
+	<Verse VerseID="13"><![CDATA[فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ]]></Verse>
+	<Verse VerseID="14"><![CDATA[إِنَّ رَبَّكَ لَبِالْمِرْصَادِ]]></Verse>
+	<Verse VerseID="15"><![CDATA[فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ]]></Verse>
+	<Verse VerseID="16"><![CDATA[وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ]]></Verse>
+	<Verse VerseID="17"><![CDATA[كَلَّا ۖ بَلْ لَا تُكْرِمُونَ الْيَتِيمَ]]></Verse>
+	<Verse VerseID="18"><![CDATA[وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ]]></Verse>
+	<Verse VerseID="19"><![CDATA[وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا]]></Verse>
+	<Verse VerseID="20"><![CDATA[وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا]]></Verse>
+	<Verse VerseID="21"><![CDATA[كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا]]></Verse>
+	<Verse VerseID="22"><![CDATA[وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا]]></Verse>
+	<Verse VerseID="23"><![CDATA[وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ]]></Verse>
+	<Verse VerseID="24"><![CDATA[يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي]]></Verse>
+	<Verse VerseID="25"><![CDATA[فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ]]></Verse>
+	<Verse VerseID="26"><![CDATA[وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ]]></Verse>
+	<Verse VerseID="27"><![CDATA[يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ]]></Verse>
+	<Verse VerseID="28"><![CDATA[ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً]]></Verse>
+	<Verse VerseID="29"><![CDATA[فَادْخُلِي فِي عِبَادِي]]></Verse>
+	<Verse VerseID="30"><![CDATA[وَادْخُلِي جَنَّتِي]]></Verse>
+</Chapter>

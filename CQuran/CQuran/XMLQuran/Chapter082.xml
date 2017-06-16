@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="82" ChapterName="الانفطار">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا السَّمَاءُ انْفَطَرَتْ]]></Verse>
+	<Verse VerseID="2"><![CDATA[وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ]]></Verse>
+	<Verse VerseID="3"><![CDATA[وَإِذَا الْبِحَارُ فُجِّرَتْ]]></Verse>
+	<Verse VerseID="4"><![CDATA[وَإِذَا الْقُبُورُ بُعْثِرَتْ]]></Verse>
+	<Verse VerseID="5"><![CDATA[عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ]]></Verse>
+	<Verse VerseID="6"><![CDATA[يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ]]></Verse>
+	<Verse VerseID="7"><![CDATA[الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ]]></Verse>
+	<Verse VerseID="8"><![CDATA[فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ]]></Verse>
+	<Verse VerseID="9"><![CDATA[كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ]]></Verse>
+	<Verse VerseID="10"><![CDATA[وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ]]></Verse>
+	<Verse VerseID="11"><![CDATA[كِرَامًا كَاتِبِينَ]]></Verse>
+	<Verse VerseID="12"><![CDATA[يَعْلَمُونَ مَا تَفْعَلُونَ]]></Verse>
+	<Verse VerseID="13"><![CDATA[إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ]]></Verse>
+	<Verse VerseID="14"><![CDATA[وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ]]></Verse>
+	<Verse VerseID="15"><![CDATA[يَصْلَوْنَهَا يَوْمَ الدِّينِ]]></Verse>
+	<Verse VerseID="16"><![CDATA[وَمَا هُمْ عَنْهَا بِغَائِبِينَ]]></Verse>
+	<Verse VerseID="17"><![CDATA[وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ]]></Verse>
+	<Verse VerseID="18"><![CDATA[ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ]]></Verse>
+	<Verse VerseID="19"><![CDATA[يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ]]></Verse>
+</Chapter>

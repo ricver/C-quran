@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="112" ChapterName="الاخلاص">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ هُوَ اللَّهُ أَحَدٌ]]></Verse>
+	<Verse VerseID="2"><![CDATA[اللَّهُ الصَّمَدُ]]></Verse>
+	<Verse VerseID="3"><![CDATA[لَمْ يَلِدْ وَلَمْ يُولَدْ]]></Verse>
+	<Verse VerseID="4"><![CDATA[وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ]]></Verse>
+</Chapter>

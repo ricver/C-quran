@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="88" ChapterName="الغاشية">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ]]></Verse>
+	<Verse VerseID="2"><![CDATA[وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ]]></Verse>
+	<Verse VerseID="3"><![CDATA[عَامِلَةٌ نَاصِبَةٌ]]></Verse>
+	<Verse VerseID="4"><![CDATA[تَصْلَىٰ نَارًا حَامِيَةً]]></Verse>
+	<Verse VerseID="5"><![CDATA[تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ]]></Verse>
+	<Verse VerseID="6"><![CDATA[لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ]]></Verse>
+	<Verse VerseID="7"><![CDATA[لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ]]></Verse>
+	<Verse VerseID="8"><![CDATA[وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ]]></Verse>
+	<Verse VerseID="9"><![CDATA[لِسَعْيِهَا رَاضِيَةٌ]]></Verse>
+	<Verse VerseID="10"><![CDATA[فِي جَنَّةٍ عَالِيَةٍ]]></Verse>
+	<Verse VerseID="11"><![CDATA[لَا تَسْمَعُ فِيهَا لَاغِيَةً]]></Verse>
+	<Verse VerseID="12"><![CDATA[فِيهَا عَيْنٌ جَارِيَةٌ]]></Verse>
+	<Verse VerseID="13"><![CDATA[فِيهَا سُرُرٌ مَرْفُوعَةٌ]]></Verse>
+	<Verse VerseID="14"><![CDATA[وَأَكْوَابٌ مَوْضُوعَةٌ]]></Verse>
+	<Verse VerseID="15"><![CDATA[وَنَمَارِقُ مَصْفُوفَةٌ]]></Verse>
+	<Verse VerseID="16"><![CDATA[وَزَرَابِيُّ مَبْثُوثَةٌ]]></Verse>
+	<Verse VerseID="17"><![CDATA[أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ]]></Verse>
+	<Verse VerseID="18"><![CDATA[وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ]]></Verse>
+	<Verse VerseID="19"><![CDATA[وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ]]></Verse>
+	<Verse VerseID="20"><![CDATA[وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ]]></Verse>
+	<Verse VerseID="21"><![CDATA[فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ]]></Verse>
+	<Verse VerseID="22"><![CDATA[لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ]]></Verse>
+	<Verse VerseID="23"><![CDATA[إِلَّا مَنْ تَوَلَّىٰ وَكَفَرَ]]></Verse>
+	<Verse VerseID="24"><![CDATA[فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ]]></Verse>
+	<Verse VerseID="25"><![CDATA[إِنَّ إِلَيْنَا إِيَابَهُمْ]]></Verse>
+	<Verse VerseID="26"><![CDATA[ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ]]></Verse>
+</Chapter>

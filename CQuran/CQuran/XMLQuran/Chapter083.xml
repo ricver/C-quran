@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 16 June 2017 01:25 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="83" ChapterName="المطففين">
+	<Verse VerseID="1"><![CDATA[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَيْلٌ لِلْمُطَفِّفِينَ]]></Verse>
+	<Verse VerseID="2"><![CDATA[الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ]]></Verse>
+	<Verse VerseID="3"><![CDATA[وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ]]></Verse>
+	<Verse VerseID="4"><![CDATA[أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُمْ مَبْعُوثُونَ]]></Verse>
+	<Verse VerseID="5"><![CDATA[لِيَوْمٍ عَظِيمٍ]]></Verse>
+	<Verse VerseID="6"><![CDATA[يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ]]></Verse>
+	<Verse VerseID="7"><![CDATA[كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ]]></Verse>
+	<Verse VerseID="8"><![CDATA[وَمَا أَدْرَاكَ مَا سِجِّينٌ]]></Verse>
+	<Verse VerseID="9"><![CDATA[كِتَابٌ مَرْقُومٌ]]></Verse>
+	<Verse VerseID="10"><![CDATA[وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ]]></Verse>
+	<Verse VerseID="11"><![CDATA[الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ]]></Verse>
+	<Verse VerseID="12"><![CDATA[وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ]]></Verse>
+	<Verse VerseID="13"><![CDATA[إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ]]></Verse>
+	<Verse VerseID="14"><![CDATA[كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ]]></Verse>
+	<Verse VerseID="15"><![CDATA[كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ]]></Verse>
+	<Verse VerseID="16"><![CDATA[ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ]]></Verse>
+	<Verse VerseID="17"><![CDATA[ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ]]></Verse>
+	<Verse VerseID="18"><![CDATA[كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ]]></Verse>
+	<Verse VerseID="19"><![CDATA[وَمَا أَدْرَاكَ مَا عِلِّيُّونَ]]></Verse>
+	<Verse VerseID="20"><![CDATA[كِتَابٌ مَرْقُومٌ]]></Verse>
+	<Verse VerseID="21"><![CDATA[يَشْهَدُهُ الْمُقَرَّبُونَ]]></Verse>
+	<Verse VerseID="22"><![CDATA[إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ]]></Verse>
+	<Verse VerseID="23"><![CDATA[عَلَى الْأَرَائِكِ يَنْظُرُونَ]]></Verse>
+	<Verse VerseID="24"><![CDATA[تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ]]></Verse>
+	<Verse VerseID="25"><![CDATA[يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ]]></Verse>
+	<Verse VerseID="26"><![CDATA[خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ]]></Verse>
+	<Verse VerseID="27"><![CDATA[وَمِزَاجُهُ مِنْ تَسْنِيمٍ]]></Verse>
+	<Verse VerseID="28"><![CDATA[عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ]]></Verse>
+	<Verse VerseID="29"><![CDATA[إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ]]></Verse>
+	<Verse VerseID="30"><![CDATA[وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ]]></Verse>
+	<Verse VerseID="31"><![CDATA[وَإِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ]]></Verse>
+	<Verse VerseID="32"><![CDATA[وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ]]></Verse>
+	<Verse VerseID="33"><![CDATA[وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ]]></Verse>
+	<Verse VerseID="34"><![CDATA[فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ]]></Verse>
+	<Verse VerseID="35"><![CDATA[عَلَى الْأَرَائِكِ يَنْظُرُونَ]]></Verse>
+	<Verse VerseID="36"><![CDATA[هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ]]></Verse>
+</Chapter>
